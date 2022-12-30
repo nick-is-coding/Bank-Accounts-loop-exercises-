@@ -1,0 +1,45 @@
+{
+  "name": "for-loops-functions-practice",
+  "version": "1.0.0",
+  "description": "The for loops exercises set",
+  "main": "part1.js",
+  "scripts": {
+    "test-all": "vitest --run",
+    "test-part1-1": "vitest --run part1/e1.",
+    "test-part1-2": "vitest --run part1/e2.",
+    "test-part1-3": "vitest --run part1/e3.",
+    "test-part1-4": "vitest --run part1/e4.",
+    "test-part1-5": "vitest --run part1/e5.",
+    "test-part1-6": "vitest --run part1/e6.",
+    "test-part1-7": "vitest --run part1/e7.",
+    "test-part1-8": "vitest --run part1/e8.",
+    "test-part1-9": "vitest --run part1/e9.",
+    "test-part1-10": "vitest --run part1/e10.",
+    "test-part1-11": "vitest --run part1/e11.",
+    "test-part1-12": "vitest --run part1/e12.",
+    "test-part1-13": "vitest --run part1/e13.",
+    "test-part1-14": "vitest --run part1/e14.",
+    "test-part2-1": "vitest --run part2/e1.",
+    "test-part2-2": "vitest --run part2/e2.",
+    "test-part2-3": "vitest --run part2/e3.",
+    "test-part2-4": "vitest --run part2/e4.",
+    "test-part2-5": "vitest --run part2/e5.",
+    "test-part2-6": "vitest --run part2/e6.",
+    "test-part2-7": "vitest --run part2/e7.",
+    "test-part2-8": "vitest --run part2/e8.",
+    "test-part2-9": "vitest --run part2/e9.",
+    "test-part2-10": "vitest --run part2/e10.",
+    "test-part3-1": "vitest --run part3/e1.",
+    "test-part3-2": "vitest --run part3/e2.",
+    "test-part3-3": "vitest --run part3/e3.",
+    "test-part3-4": "vitest --run part3/e4.",
+    "test-part3-5": "vitest --run part3/e5.",
+    "test-part3-6": "vitest --run part3/e6."
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0"
+  },
+  "dependencies": {
+    "vitest": "^0.26.2"
+  }
+}
