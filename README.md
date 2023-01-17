@@ -11,10 +11,10 @@
 Remember, every function must return something.
 
 ## HOW IT WORKS
-- The repo has the "exercises" folder with 18 exercise files (e1.js, e2.js, ... etc). Each file includes the task description, a function declared, data imported if required, and a placeholder for your code.
+- The repo has the "exercises" folder with 20 exercise files (e1.js, e2.js, ... etc). Each file includes the task description, a function declared, data imported if required, and a placeholder for your code.
 - Descriptions for some exercises are located in /exercise-info/ folder
 - Open e1.js file and start writing functions' code in the "Your code goes here..." placeholder to achieve the goals described.
-- **!!! You can use FOR LOOPS ONLY to iterate through data array/nested arrays. Other types of iterating are NOT allowed.**
+- **!!! You can use FOR LOOPS ONLY to iterate through data array/nested arrays. Other types of iterating, and array methods are NOT allowed.**
 - Once you are done, run the test command ```npm run test-1``` in the command line, where "1" is the current exercise number. This will start the test environment and show the passed and failed tests for the current code you have written.
 - If the test results have all tests passed (no red comments), consider it to be finished successfully, then switch to the next exercise file.
 - If any of the tests fails, refactor the code and run the test command after you've fixed the function. 
