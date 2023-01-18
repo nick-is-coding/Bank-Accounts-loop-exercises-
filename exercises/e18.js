@@ -6,8 +6,15 @@
 // NOTE: You can NOT use the array.join(), array.toString(), and array.replace() methods in your code
 
 export function joinToString(array, separator) {
-  // Your code goes here...
-
+  let string = "";
+    for (let i = 0; i < array.length; i++) {
+        if (i === array.length - 1 || i === array.length - 2) {
+          string += array[i];
+        } else {
+          string += array[i] + separator;
+        }
+    }
+    return string;
 }
 
 
